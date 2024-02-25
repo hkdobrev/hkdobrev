@@ -6,4 +6,4 @@ Check out [my work and résumé](https://hkdobrev.com).
 
 [_Get in touch over email_](mailto:harry@hkdobrev.com) or you can follow me at [@hkdobrev](https://x.com/hkdobrev).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkdobrev&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkdobrev&show_icons=true&theme=transparent&hide=contribs&hide_border=true)](https://github-readme-stats.vercel.app/api?username=hkdobrev&show_icons=true&theme=transparent&hide=contribs&hide_border=true)
